@@ -2,7 +2,7 @@
 body{
     height: 99vh;
     width: 97vw;
-    background-image:url(bg-pattern-top.svg),url(bg-pattern-bottom.svg);
+    background-image:url(https://github.com/sunba33/deneme-project/blob/f7c9fbe97f0fe03dafafb6cea260f4f81821c0f1/bg-pattern-bottom.svg),url(bg-pattern-bottom.svg);
     background-position:right 50vw bottom 50vh,left 50vw top 50vh;
     background-repeat: no-repeat;
     background-color: hsl(185, 75%, 39%);
